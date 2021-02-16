@@ -1,0 +1,8 @@
+#school{
+    box-shadow: 0px 0px 10px 5px grey
+    margin-bottom: 50px;
+    margin: 10px;
+}
+#about{
+    display:flex;
+}
