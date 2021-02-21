@@ -5,3 +5,20 @@
 #admissions-link{
     margin: 20px;
 }
+#cover{
+    height: 80vh;
+    background-image: url(cover-pic.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+    display: table-cell;
+    width: 100vw;
+    vertical-align: middle;
+    text-align: center;
+    
+}
+.navbar{
+    margin-bottom: 0px;
+}
+#cover h1{
+    color: white;
+}
